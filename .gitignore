@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+twitch_310
 
 # Spyder project settings
 .spyderproject
@@ -162,6 +163,7 @@ cython_debug/
 # text files
 *.txt
 *.csv
+*.json
 
 #Except requirments.txt
 !requirements.txt
